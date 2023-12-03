@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = "Learning about base Django permissions and DRF user authorization"
+authors = ["Mitrajeet-Golsangi <mitrajeetgolsangi@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^4.2.7"
+djangorestframework = "^3.14.0"
+drf-access-policy = "^1.5.0"
+pytest = "^7.4.3"
+pylint = "^3.0.2"
+markdown = "^3.5.1"
+django-filter = "^23.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

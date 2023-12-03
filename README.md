@@ -1,2 +1,3 @@
-# learning-django-permissions
-Learning about Django permissions and advanced django permissioning functionalities
+# Django Permissions and Advanced DRF Permissioning
+
+Learning about various Django permission features and advanced django permission functionalities with django rest framework.

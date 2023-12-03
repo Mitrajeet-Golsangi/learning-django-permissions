@@ -1,0 +1,9 @@
+{
+	"workbench.colorCustomizations": {
+		"[Material Theme Darker High Contrast]": {},
+		"activityBar.background": "#4B1B40",
+		"titleBar.activeBackground": "#6A265A",
+		"titleBar.activeForeground": "#FDF9FC"
+	},
+	"python.analysis.typeCheckingMode": "basic"
+}
